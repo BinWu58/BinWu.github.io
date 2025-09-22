@@ -13,10 +13,10 @@ title                    : "Bin Wu / Postdoc"
 title_separator          : "|"
 name                     : &name "Bin Wu (吴彬)"
 description              : &description "Personal academic website of Bin Wu, a postdoctoral fellow at the School of Management, University of Science and Technology of China (USTC)."   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://BinWu.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+url                      : https://BinWu58.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "BinWu58/BinWu.github.io"
+repository               : "BinWu58/BinWu58.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
