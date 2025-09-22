@@ -23,14 +23,14 @@ repository               : "BinWu58/BinWu.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "binwu.jpg"
+  name             : "Bin Wu (吴彬)"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Postdoctoral Fellow<br>School of Management<br>University of Science and Technology of China"
+  location         : "Hefei, Anhui, China"
+  employer         : ""
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "bin.w@ustc.edu.cn" 
 
   # Academic websites
   academia         : # URL
