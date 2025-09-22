@@ -3,7 +3,15 @@ title: "Jump Activity Analysis of the Equity Index and the Corresponding Volatil
 collection: publications
 category: manuscripts
 permalink: /publication/2021-04-19-jump-activity-chinese-market
-excerpt: "This paper performs a nonparametric analysis of jump activity for the Chinese equities market.www"
+excerpt: " This paper performs a nonparametric analysis of jump activity for the Chinese
+ equities market. More precisely, we perform formal tests to decide whether the
+ jumps in the 50 exchange‐traded fund (50ETF) and its volatility occur together
+ by using the implied volatility index (iVIX) as a proxy for volatility. Our em
+pirical findings are as follows: (i) joint jumps in the 50ETF and iVIX hardly
+ occur, especially during noncrisis periods; (ii) there is a strong degree of de
+pendence between the jump sizes of the 50ETF and iVIX when disaggregating
+ jumps into their positive and negative parts; (iii) the jump component seems to
+ contribute more to the leverage effect than the diffusive component."
 date: 2021-04-19
 venue: "Journal of Futures Markets"
 paperurl: "https://onlinelibrary.wiley.com/doi/abs/10.1002/fut.22227"
