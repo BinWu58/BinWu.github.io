@@ -2,7 +2,7 @@
 title: "Jump Activity Analysis of the Equity Index and the Corresponding Volatility: Evidence From the Chinese Market"
 collection: publications
 category: manuscripts
-permalink: /publication/2021-04-19-jump-activity-chinese-market
+permalink: #/publication/2021-04-19-jump-activity-chinese-market
 excerpt: 'This paper performs a nonparametric analysis of jump activity for the Chinese equities market.'
 date: 2021-04-19
 venue: 'Journal of Futures Markets'
