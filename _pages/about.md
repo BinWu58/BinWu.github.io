@@ -48,7 +48,7 @@ Academic service
 - Journal of Business and Economic Statistics
 - Journal of Futures Markets
 - International Review of Financial Analysis
-- Systems Engineering - Theory & Practice
+- Systems Engineering - Theory & Practice*
 
 Projects
 ------
