@@ -16,7 +16,7 @@ My work has been appeared in the European Journal of Operational Research, Journ
 Research Interest
 ======
 My research interests include:
-- Financial Econometrics: **High-Frequency Analysis**; Factor Model; Quantile Analysis; **Discrete Choice Model**; 
+- Financial Econometrics: **High-Frequency Analysis**; Factor Model; Quantile Analysis; **Discrete Choice Model**.
 - High-Dimensional Statistics: **Dimension Reduction (PCA)**; Matrix Completion; High-Dimensional Non-Stationary Data Analysis.
 - Finance: **Empirical Asset Pricing**; Portfolio Allocation; Systemic Risk; Jump Risk; **Intra-Horizon Risk**; Financial Derivatives Pricing.
 - Artificial Intelligence: **Diffusion Model**; Flow Matching; Transfer Learning; Supervised/Unsupervised Learning.
