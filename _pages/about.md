@@ -21,18 +21,26 @@ My research interests include:
 - Finance: **Empirical Asset Pricing**; Portfolio Allocation; Systemic Risk; Jump Risk; **Intra-Horizon Risk**; Financial Derivatives Pricing.
 - Artificial Intelligence: **Diffusion Model**; Flow Matching; Transfer Learning; Supervised/Unsupervised Learning.
 
-Getting started
+Selected Publications
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+1. **Wu B**, Chen P, Ye W*. Variance swaps with mean reversion and multi-factor variance. **European Journal of Operational Research**, 2024, 315(1): 191-212. [[pdf](https://www.sciencedirect.com/science/article/pii/S0377221723009451)]
+1. Ye W, Zhou Y, Chen P, **Wu B**. A simulation-based method for estimating systemic risk measures. **European Journal of Operational Research**, 2024, 313(1): 312-324. [[pdf](https://www.sciencedirect.com/science/article/pii/S0377221723006616)]
+1. **Wu B**, Chen P, Ye W*. Jump activity analysis of the equity index and the corresponding volatility: Evidence from the Chinese market. **Journal of Futures Markets**, 2021, 41(7): 1055-1073. [[pdf](https://onlinelibrary.wiley.com/doi/full/10.1002/fut.22209)]
+1. Ye W, **Wu B**, Chen P*. Pricing VIX derivatives using a stochastic volatility model with a flexible jump structure. **Probability in the Engineering and Informational Sciences**, 2023, 31(7): 245-274. [[pdf](https://www.cambridge.org/core/journals/probability-in-the-engineering-and-informational-sciences/article/pricing-vix-derivatives-using-a-stochastic-volatility-model-with-a-flexible-jump-structure/6C4C46FE4B9703FF790CB351D2E909C2)]
+1. Ye W, Xia W, **Wu B***, Chen P*. Using implied volatility jumps for realized volatility forecasting: Evidence from the Chinese market. **International Review of Financial Analysis**, 2022, 83: 102277. [[pdf](https://www.sciencedirect.com/science/article/pii/S1057521922002320)]
 
-Site-wide configuration
+**Note:** denote the corresponding author
+
+Working Papers
 ------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+1. Kong X, **Wu B***, Ye W. Staleness Factors and Volatility Estimation at High Frequencies. **Journal of the American Statistical Association**, major revision required. [[arXiv:2410.07607](https://arxiv.org/pdf/2410.07607)]
+1. Kong X, Liu C, **Wu B***. Data Synchronization at High Frequencies. **Management Science**, under review. [[arXiv:2507.12220](https://arxiv.org/pdf/2507.12220)]
+1. Kong X, **Wu B***, Ye W. High-Dimensional Binary Variates: Maximum Likelihood Estimation with Nonstationary Covariates and Factors. **Journal of Econometrics**, under review. [[arXiv:2505.22417](https://arxiv.org/pdf/2505.22417)]
+1. Xia W, Ye W, **Wu B***, Zhou Y. Option-implied systemic risk measures. **Journal of Banking and Finance**, major revision required.
+1. Xia W, Ye W, **Wu B***. Quadratic diffusion or time-varying jump for VIX term structure? **Quantitative Finance**, minor revision required.
+1. Ye W, Yun Y, **Wu B***. The Information Content of Volatility Factors. **International Journal of Forecasting**, under review.
+1. Chen P, Song Y*, **Wu B**, Ye W. Intra-Horizon Risk: The Role of Stochastic Volatility.
+1. Cao C, Chen P, **Wu B***. How to Invest and When to Adjust: A Real Options Model for Cybersecurity Investment Decisions.
 
 Create content & metadata
 ------
