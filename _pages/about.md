@@ -16,8 +16,8 @@ My work has been appeared in the European Journal of Operational Research, Journ
 Research Interest
 ======
 My research interests include:
-- Financial Econometrics: High-Frequency Analysis; Factor Model; Quantile Analysis; 
-- High-Dimensional Statistics: 
+- Financial Econometrics: **High-Frequency Analysis**; Factor Model; Quantile Analysis; 
+- High-Dimensional Statistics: Dimension Reduction (PCA); Matrix Completion; 
 - [Plotly](https://plotly.com/javascript/) for plotting
 
 Getting started
