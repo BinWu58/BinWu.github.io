@@ -9,6 +9,10 @@ redirect_from:
 
 I am currently a postdoctoral researcher at the School of Management, University of Science and Technology of China. My research interest includes financial econometrics, asset pricing, high-dimensional statistical inference, risk management, and artificial intelligence. I received my Ph.D. from the University of Science and Technology of China in 2023, under the supervision of Professors Yaohua Wu (deceased) and [Wuyi Ye](https://bs.ustc.edu.cn/chinese/profile-86.html).
 
+My research focuses on developing statistical methods for application in financial data and developing generative AI algorithms (diffusion models and reinforcement learning) for application in finance and management. My work is divided into three streams: big data issues in empirical asset pricing, missing data in high-dimensional datasets, and causal inference, along with diffusion model applications for data augmentation.
+
+My work has been appeared in the European Journal of Operational Research, Journal of Futures Markets, and International Review of Financial Analysis. Moreover, I have multiple manuscripts under revision at journals such as Journal of the American Statistical Association, Management Science, Journal of Banking and Finance, and Quantitative Finance.
+
 A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
